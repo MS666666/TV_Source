@@ -1,2 +1,2 @@
 （自用电视源）
-YYDS_TQ
+https://tv.tangqu.top/TQ.m3u8
