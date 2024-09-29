@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 ,BRTV新闻
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10科教
+http://121.24.98.226:8090/hls/18/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV-11戏曲
+http://121.24.98.226:8090/hls/19/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV-12社会与法
+http://121.24.98.226:8090/hls/20/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13新闻
+http://123.138.216.44:9902/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14少儿
+http://121.24.98.226:8090/hls/22/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15音乐
+http://121.24.98.226:8090/hls/23/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
+http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17农业农村
+http://121.24.98.226:8090/hls/15/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
+http://121.24.98.226:8090/hls/9/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
+http://121.24.98.226:8090/hls/10/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3综艺
+http://121.24.98.226:8090/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4中文国际
+http://121.24.98.226:8090/hls/12/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6电影
+http://121.24.98.226:8090/hls/14/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8电视剧
+http://121.24.98.226:8090/hls/16/index.m3u8
+#EXTINF:-1 group-title="Undefined",林正英
+http://epg.112114.xyz/douyu/218859
+#EXTINF:-1 group-title="Undefined",欧美大片1
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 group-title="Undefined",欧美大片2
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="卫视频道",金鹰卡通
+http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTE1NC45MS4zMi4yNDImcWlkPSZzPTU5MjZiZDljMjNlMGU5NzcxOTk0M2QwM2NmYTdkMzEwJmVzPTE3Mjc2MDMwODkmdXVpZD0wZjM2MzZiNWQzMjcyNjExYTJmNmMzY2QyNTMwYzVkZi05YTViMjBmMiZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
